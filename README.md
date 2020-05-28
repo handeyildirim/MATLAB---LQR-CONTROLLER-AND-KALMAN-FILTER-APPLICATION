@@ -1,0 +1,2 @@
+# MATLAB---LQR-CONTROLLER-AND-KALMAN-FILTER-APPLICATION
+Using a designed Simulink model, the system created was linearized around a suitable point. The linearized system was taken to MATLAB and a Kalman filter was designed on it. Then this filter was realized by going to Simulink environment again. In Simulink, firstly the linear system and then the filter on the nonlinear system were tried and state predictions were made.
